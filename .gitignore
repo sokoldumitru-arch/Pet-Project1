@@ -1,0 +1,10 @@
+# Docker volumes
+mariadb_data/
+*.env
+
+# Logs
+*.log
+
+# OS cache
+.DS_Store
+Thumbs.db
